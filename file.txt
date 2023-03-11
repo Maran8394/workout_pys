@@ -1,0 +1,540 @@
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingFour">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingFive">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingSix">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingSeven">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingEight">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingNine">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingTen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingEleven">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingTwelve">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingTwelve"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingThirteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingThirteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingFourteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+                
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFourteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingFifteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFifteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingSixteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingSixteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingSeventeen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseSeventeen" class="accordion-collapse collapse" aria-labelledby="headingSeventeen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingEighteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseEighteen" class="accordion-collapse collapse" aria-labelledby="headingEighteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingNineteen">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseNineteen" class="accordion-collapse collapse" aria-labelledby="headingNineteen"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
+
+    <div class="accordion-item mt-3">
+        <h2 class="accordion-header" id="headingTwenty">
+            <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
+                <h6 class="fs-18 m-0 text-uppercase">
+
+                </h6>
+            </button>
+        </h2>
+        <div id="collapseTwenty" class="accordion-collapse collapse" aria-labelledby="headingTwenty"
+                            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                                <h6 class="fs-20 mb-4 text-center text-uppercase">
+                                </h6>
+                                <p class="fs-16">
+                                
+                                </p>
+                                <ul class="ul-list">
+                                
+                                </ul>
+                                
+                </div>
+            </div>
+    </div>
+    
+
